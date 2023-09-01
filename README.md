@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Donald C Uzochukwu</h1>
 <h3 align="center">In crafting digital solutions, I possess the superpower to effortlessly handle both front-end and back-end development, crafting captivating user interfaces and powerful server-side functionalities simultaneously.</h3>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Donducci&show_icons=true)
+
 - 🌱 I’m currently learning **PHP and React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Donducci?tab=repositories](https://github.com/Donducci?tab=repositories)
