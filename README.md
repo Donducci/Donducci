@@ -3,6 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Donducci&show_icons=true)
 
+api/top-langs?username=Donducci
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donducci&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Donducci&show_icons=true&theme=radical)
