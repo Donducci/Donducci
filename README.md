@@ -3,6 +3,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Donducci&show_icons=true)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donducci&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🌱 I’m currently learning **PHP and React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Donducci?tab=repositories](https://github.com/Donducci?tab=repositories)
