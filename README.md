@@ -9,7 +9,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Donducci&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Quote
+### ✍️ Daily Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
