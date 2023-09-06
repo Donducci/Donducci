@@ -38,7 +38,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/donald-chijioke-uzochukwu-742032277/**
 
-- ⚡ Fun fact **Sure, here's a short joke for you: Why don't scientists trust atoms? Because they make up everything!not only do I excel at coding, but I also possess the unique talent of making people laugh with my witty sense of humor.**
+- ⚡ Fun fact ** Why don't scientists trust atoms? Because they make up everything!not only do I excel at coding, but I also possess the unique talent of making people laugh with my witty sense of humor.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
