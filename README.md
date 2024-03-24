@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning **PHP and React Native**
+- 🌱 I mastered **React, React Native**, and I’m currently learning **.NET and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Donducci?tab=repositories](https://github.com/Donducci?tab=repositories)
 
