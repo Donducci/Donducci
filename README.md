@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm Donald C Uzochukwu</h1>
-<h3 align="center">In crafting digital solutions, I possess the superpower to effortlessly handle both front-end and back-end development, crafting captivating user interfaces and powerful server-side functionalities simultaneously.</h3>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Donducci&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Donducci&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✍️ Daily Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
