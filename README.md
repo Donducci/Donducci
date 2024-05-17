@@ -14,13 +14,13 @@
 
 
 
-- 🌱 I mastered **React, React Native**, and I’m currently learning **.NET and Python**
+- 🌱 I mastered **React, React Native**, and I’m currently learning **.Data Science**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Donducci?tab=repositories](https://github.com/Donducci?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/donald-chijioke-uzochukwu-742032277/](https://www.linkedin.com/in/donald-chijioke-uzochukwu-742032277/)
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **Full Stack Development Web & Mobile **
 
 - 📫 How to reach me **https://www.linkedin.com/in/donald-chijioke-uzochukwu-742032277/**
 
